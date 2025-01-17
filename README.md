@@ -8,10 +8,6 @@ This project focuses on predicting the presence of heart disease using a dataset
 - [Dataset](#dataset)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Setup Instructions](#setup-instructions)
-- [Usage](#usage)
-- [Results](#results)
-- [Acknowledgments](#acknowledgments)
 
 ---
 
